@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @alpafyonluoglu
-- 👀 I’m interested in ML, Android app development, and web frontend & backend development.
+👋🏻🌍❕
+
+I’m @alpafyonluoglu. Here is a brief summary of my current progress and interests about coding... Visit my website [alpafyonluoglu.dev](https://alpafyonluoglu.dev) to learn more about me and my projects.
+
+
+- 👀 I’m interested in Android app development, web frontend & backend development, and especially machine learning, deep learning, and their use cases.
 - 🌱 I’m currently learning backend development with NodeJS.
 - 💞️ I’m looking to collaborate on any fun project!
-- 📫 You can reach me at [afyonluoglualp@gmail.com](mailto:afyonluoglualp@gmail.com) or via social media, @alpafyonluoglu.
-- 🌍 Here are links to some of my projects that are not currently open source:
-  - BHMUN website: [bhmun.org](https://bhmun.org)
-
-<!---
-alpafyonluoglu/alpafyonluoglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 You can reach me via email or social media addresses given in my profile info.
+- 🌍 Here are links to some of my public projects that are not currently open source:
+  - Bhmun website: [bhmun.org](https://bhmun.org)
